@@ -13,7 +13,7 @@ Gradle 6.x.x
 
 ### To see Allure reports:
 
-`./gradlew allureServe (use after ./gradlew clean test)`
+`./gradlew allureServe (use after ./gradlew cucumber)`
 
 ## Documentation:
 
