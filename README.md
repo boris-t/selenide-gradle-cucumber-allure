@@ -9,7 +9,7 @@ Gradle 6.x.x
 
 *  clone project: `git clone https://github.com/boris-t/selenide-gradle-cucumber-allure.git`
 *  go to project's dir
-*  run command `./gradlew test`
+*  run command `./gradlew cucumber`
 
 ### To see Allure reports:
 
